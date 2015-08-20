@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a590b09bb33444103615bee8d0218c3e
+labels:
+- ObjReader
+- obj
+- import
+- mesh
+- model
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 637190b257a314b9595a86e2318b4c14
+labels:
+- ObjReader
+- obj
+- import
+- mesh
+- model
+MonoAssemblyImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  userData: 

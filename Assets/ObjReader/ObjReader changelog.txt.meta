@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9abfaf4ec369845d6a57d5d5e8b39d60
+labels:
+- ObjReader
+- obj
+- import
+- mesh
+- model
+TextScriptImporter:
+  userData: 
